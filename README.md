@@ -7,7 +7,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 🔭 I’m currently working on personal project.<br>👯 I’m looking to collaborate on Dev projects.<br>🤝 I’m looking for help with Data Structures & Algorithms.<br>🌱 I’m currently learning NodeJS.<br>💬 Ask me about, I am happy to help.<br>⚡ Fun fact : I have a degree in Mechanical Engineering.
