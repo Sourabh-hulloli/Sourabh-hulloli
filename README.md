@@ -1,5 +1,9 @@
 <h1 align="center"><b>Hi , I'm Sourabh hulloli </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on personal project.<br>👯 I’m looking to collaborate on Dev projects.<br>🤝 I’m looking for help with Data Structures & Algorithms.<br>🌱 I’m currently learning NodeJS.<br>💬 Ask me about, I am happy to help.<br>⚡ Fun fact : I have a degree in Mechanical Engineering.
 
