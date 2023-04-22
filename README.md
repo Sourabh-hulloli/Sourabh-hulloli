@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-# 💫 About Me:
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 🔭 I’m currently working on personal project.<br>👯 I’m looking to collaborate on Dev projects.<br>🤝 I’m looking for help with Data Structures & Algorithms.<br>🌱 I’m currently learning NodeJS.<br>💬 Ask me about, I am happy to help.<br>⚡ Fun fact : I have a degree in Mechanical Engineering.
 
 
