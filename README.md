@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Sourabh hulloli </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 # 💫 About Me:
-Hi there, I'm Sourabh<br><br>🔭 I’m currently working on personal project.<br>👯 I’m looking to collaborate on Dev projects.<br>🤝 I’m looking for help with Data Structures & Algorithms.<br>🌱 I’m currently learning NodeJS.<br>💬 Ask me about, I am happy to help.<br>⚡ Fun fact : I have a degree in Mechanical Engineering.
+🔭 I’m currently working on personal project.<br>👯 I’m looking to collaborate on Dev projects.<br>🤝 I’m looking for help with Data Structures & Algorithms.<br>🌱 I’m currently learning NodeJS.<br>💬 Ask me about, I am happy to help.<br>⚡ Fun fact : I have a degree in Mechanical Engineering.
 
 
 ## 🌐 Socials:
